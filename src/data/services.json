@@ -1,0 +1,134 @@
+[
+  {
+    "id": "baby-care",
+    "name": "Baby Care",
+    "name_bn": "শিশুর যত্ন",
+    "short": "Trusted babysitting and newborn care at home.",
+    "short_bn": "বিশ্বস্ত বেবি কেয়ার ও নবজাতকের দেখভাল বাড়িতে।",
+    "description": "Reliable babysitting, feeding support, diapering, and newborn care by vetted caregivers.",
+    "description_bn": "অভিজ্ঞ কেয়ারগিভার দ্বারা খাওয়ানো, ডায়াপার পরিবর্তন, নবজাতকের ঘুমের সাপোর্ট ও নিরাপদ খেলাধুলা।",
+    "chargeType": "hour",
+    "charge": 300,
+    "image": "https://swaasaa.com/wp-content/uploads/2025/04/Baby_care.jpg",
+    "features": [
+      "Feeding and diapering support",
+      "Newborn sleep guidance",
+      "Playtime and early stimulation",
+      "Light housekeeping related to baby care"
+    ],
+    "features_bn": [
+      "খাওয়ানো ও ডায়াপারিং",
+      "নবজাতকের ঘুমের রুটিন গাইড",
+      "নিরাপদ খেলাধুলা ও প্রাথমিক উদ্দীপনা",
+      "শিশু সংক্রান্ত হালকা গৃহকর্ম"
+    ],
+    "faqs": [
+      {
+        "q": "Can I book for a few hours only?",
+        "a": "Yes, you can book by the hour or by day based on your need."
+      },
+      {
+        "q": "Are caregivers background-checked?",
+        "a": "All caregivers go through ID verification, experience checks and reviews."
+      }
+    ],
+    "faqs_bn": [
+      {
+        "q": "আমি কি কয়েক ঘণ্টার জন্য বুক করতে পারি?",
+        "a": "হ্যাঁ, প্রয়োজন অনুযায়ী ঘণ্টা বা দিন ভিত্তিতে বুক করা যায়।"
+      },
+      {
+        "q": "কেয়ারগিভাররা কি যাচাইকৃত?",
+        "a": "সকল কেয়ারগিভারদের পরিচয় যাচাই, অভিজ্ঞতা যাচাই ও রিভিউ সংগ্রহ করা হয়।"
+      }
+    ]
+  },
+  {
+    "id": "elderly-care",
+    "name": "Elderly Service",
+    "name_bn": "বয়স্ক সেবা",
+    "short": "Compassionate daily assistance and companionship.",
+    "short_bn": "মমতাময় দৈনন্দিন সহায়তা ও সঙ্গ।",
+    "description": "Support with mobility, medication reminders, hygiene, meals, and companionship for elders.",
+    "description_bn": "চলাচল, ওষুধের সময় মনে করিয়ে দেওয়া, স্বাস্থ্যবিধি, খাবার ও সঙ্গ দেওয়ার সহায়তা।",
+    "chargeType": "hour",
+    "charge": 350,
+    "image": "https://www.heartforseniorshomehealth.com/uploads/1/3/9/8/139820407/heart-for-seniors-home-health-woman-laughing_orig.jpeg",
+    "features": [
+      "Medication reminders and monitoring",
+      "Assistance with mobility and hygiene",
+      "Meal preparation and feeding support",
+      "Companionship and light activities"
+    ],
+    "features_bn": [
+      "ওষুধের স্মরণ করিয়ে দেওয়া ও পর্যবেক্ষণ",
+      "চলাচল ও স্বাস্থ্যবিধিতে সহায়তা",
+      "খাবার প্রস্তুতি ও খাওয়াতে সহায়তা",
+      "সঙ্গ ও হালকা কার্যক্রম"
+    ],
+    "faqs": [
+      {
+        "q": "Do you provide night-time support?",
+        "a": "Yes, overnight assistance can be scheduled depending on caregiver availability."
+      },
+      {
+        "q": "Can caregivers handle medical procedures?",
+        "a": "Caregivers provide non-medical support. For clinical procedures, consult a licensed nurse/doctor."
+      }
+    ],
+    "faqs_bn": [
+      {
+        "q": "রাতের সাপোর্ট কি পাওয়া যায়?",
+        "a": "হ্যাঁ, কেয়ারগিভারের উপস্থিতির উপর নির্ভর করে রাতের সাপোর্ট দেওয়া হয়।"
+      },
+      {
+        "q": "চিকিৎসা কার্যক্রম কি করেন?",
+        "a": "আমরা অ-চিকিৎসাজনিত সহায়তা দিই; চিকিৎসা প্রক্রিয়ার জন্য লাইসেন্সধারী নার্স/ডাক্তার প্রয়োজন।"
+      }
+    ]
+  },
+  {
+    "id": "sick-care",
+    "name": "Sick People Service",
+    "name_bn": "অসুস্থদের সেবা",
+    "short": "Home care for recovery and special needs.",
+    "short_bn": "বাড়িতে সুস্থ হয়ে ওঠার সহায়তা ও বিশেষ যত্ন।",
+    "description": "At-home support for recovering patients including monitoring, hygiene, diet, and comfort.",
+    "description_bn": "রোগমুক্তির সময় বাড়িতে পর্যবেক্ষণ, স্বাস্থ্যবিধি, খাদ্যাভ্যাসে সহায়তা ও আরাম নিশ্চিত করা।",
+    "chargeType": "hour",
+    "charge": 400,
+    "image": "https://www.healthathomes.com/wp-content/uploads/2022/09/nurse-at-home.jpg",
+    "features": [
+      "Basic vitals and comfort checks",
+      "Hygiene and dressing assistance",
+      "Diet guidance and meal support",
+      "Care coordination with family"
+    ],
+    "features_bn": [
+      "মৌলিক ভিটালস ও আরাম যাচাই",
+      "স্বাস্থ্যবিধি ও পোশাক সহায়তা",
+      "ডায়েট নির্দেশনা ও খাবারে সহায়তা",
+      "পরিবারের সাথে যত্ন সমন্বয়"
+    ],
+    "faqs": [
+      {
+        "q": "Is post-surgery support available?",
+        "a": "Yes, non-medical recovery support is available; consult surgeons for medical follow-ups."
+      },
+      {
+        "q": "Do you bring medical equipment?",
+        "a": "We do not provide equipment; families should arrange necessary devices per doctor advice."
+      }
+    ],
+    "faqs_bn": [
+      {
+        "q": "সার্জারি-পরবর্তী সহায়তা কি আছে?",
+        "a": "হ্যাঁ, অ-চিকিৎসাজনিত সহায়তা দেওয়া হয়; চিকিৎসাজনিত ফলোআপের জন্য সার্জন/ডাক্তারকে অনুসরণ করুন।"
+      },
+      {
+        "q": "মেডিকেল যন্ত্রপাতি কি সরবরাহ করেন?",
+        "a": "যন্ত্রপাতি সরবরাহ করা হয় না; ডাক্তারের পরামর্শ অনুযায়ী পরিবারকে ব্যবস্থা করতে হবে।"
+      }
+    ]
+  }
+]
