@@ -71,30 +71,12 @@ npm start
 - Total cost respects `service.chargeType` (hour/day) on client and server.
 - Confirm booking → persisted with `status: "Pending"` → redirect to My Bookings.
 
-**Image Configuration**
-- External image hosts must be allowed in [next.config.mjs](next.config.mjs) under `images.remotePatterns`.
-- If you add new hosts, include them there to avoid `next/image` unconfigured host errors.
-
-**UI Notes**
-- Global loading screen shows only the Care.xyz logo — see [src/app/loading.jsx](src/app/loading.jsx).
-- Navbar active state corrected — see [src/components/buttons/NavLink.jsx](src/components/buttons/NavLink.jsx) and [src/components/layouts/Navbar.jsx](src/components/layouts/Navbar.jsx).
-- Location selects (Division → District → City) for Bangladesh — see [src/data/bdLocations.js](src/data/bdLocations.js).
-
 **API Overview**
 - `GET /api/services?id=<id>` → single service; `GET /api/services` → all services
 - `GET /api/bookings` → authenticated user bookings
 - `POST /api/bookings` → create booking (requires auth)
 - `POST /api/bookings/cancel` → cancel a booking (requires auth)
 
-**Troubleshooting**
-- “Unconfigured host” on `next/image`: add the domain in [next.config.mjs](next.config.mjs).
-- MongoDB not configured: set `MONGODB_URI` and `DBNAME` in `.env`.
-- Private routes redirect: middleware is in [src/proxy.js](src/proxy.js).
-
-**Scripts**
-- `npm run dev` — start development server
-- `npm run build` — build for production
-- `npm start` — run the production build
 
 **Acknowledgements**
 - Built with Next.js, Tailwind CSS, DaisyUI, NextAuth, and MongoDB.
